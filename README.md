@@ -7,8 +7,6 @@ Welcome to the Data Analytics repository! This repository serves as a guide to u
 
 This repository includes the projects that I have made during my Data Analytics Virtual Internship with Trainity.
 
-I have even attached my Data Analytics Portfolio for the purpose.
-
 ## What is Data Analytics?
 
 Data Analytics involves the exploration, analysis, interpretation, and presentation of data to discover meaningful patterns, trends, and insights. It encompasses a wide range of techniques and processes used to extract valuable information from datasets.

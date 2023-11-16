@@ -3,6 +3,8 @@
 ## Overview
 
 Welcome to the Data Analytics repository! This repository serves as a guide to understanding data analytics, its methodologies, tools, and applications. It's a comprehensive resource for anyone interested in leveraging data to derive insights and make informed decisions.
+
+
 This repository includes the projects that I have made during my Data Analytics Virtual Internship with Trainity.
 
 ## What is Data Analytics?
